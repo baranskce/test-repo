@@ -1,1 +1,1 @@
-bu ikinci commitim.
+bu üçüncü commitim.
