@@ -1,1 +1,1 @@
-bu üçüncü commitim.
+bu deneme commitim.
