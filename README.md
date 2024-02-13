@@ -1,1 +1,1 @@
-bu ilk commitim.
+bu ikinci commitim.
